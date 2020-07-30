@@ -10,5 +10,5 @@ To install pip:
 2) Head to it's file location and run command python get-pip.py
 
 To run the project:
-1)Run command pip install beautifulsoup4
-2)Run command python parser.py
+1) Run command pip install beautifulsoup4
+2) Run command python parser.py
